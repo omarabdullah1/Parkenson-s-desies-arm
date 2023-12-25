@@ -13,7 +13,7 @@ this arm helps people with Parkenson's desies to retrive faster by doing some ex
 <table>
   <tr>
     <td>
-     Video Here for system <video src="./Looks/vid1.mp4" alt="video"> 
+     Video Here for system <iframe src="./Looks/vid1.mp4" alt="video"> 
     </td>
 </table>
 
