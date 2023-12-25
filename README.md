@@ -6,7 +6,7 @@ this arm helps people with Parkenson's desies to retrive faster by doing some ex
 <table>
   <tr>
       <td><img src="./Looks/img1.jpg" alt="Image 1"></td>
-      <td><img src="./Looks/img1.jpg" alt="Image 2"></td>
+      <td><img src="./Looks/img2.jpg" alt="Image 2"></td>
   </tr>
 </table>
 
