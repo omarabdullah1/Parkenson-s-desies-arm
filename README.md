@@ -10,4 +10,4 @@ this arm helps people with Parkenson's desies to retrive faster by doing some ex
   </tr>
 </table>
 
-<video> <source src="[./Looks/vid1.mp4](https://www.youtube.com/watch?v=C93SoHYeuz0)" type="video/mp4"> </video>
+<video> <source src="[https://www.youtube.com/watch?v=C93SoHYeuz0" type="video/mp4"> </video>
