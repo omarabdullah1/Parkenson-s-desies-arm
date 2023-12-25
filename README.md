@@ -7,10 +7,6 @@ this arm helps people with Parkenson's desies to retrive faster by doing some ex
   <tr>
       <td><img src="./Looks/img1.jpg" alt="Image 1"></td>
       <td><img src="./Looks/img1.jpg" alt="Image 2"></td>
-    <td><video width="320" height="240" controls>
-        <source src="./Looks/vid1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video></td>
-      <td>[![Image 3](./Looks/img1.jpg)](./Looks/vid1.mp4)</td>
+    <td><video width="320" height="240" controls> <source src="./Looks/vid1.mp4" type="video/mp4"> </video></td>
   </tr>
 </table>
