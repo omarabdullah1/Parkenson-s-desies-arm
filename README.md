@@ -17,4 +17,13 @@ this arm helps people with Parkenson's desies to retrive faster by doing some ex
     </td>
 </table>
 
-<video> <source src="https://www.youtube.com/watch?v=C93SoHYeuz0" type="video/mp4"> </video>
+<table>
+  <tr>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    </td>
+    <td>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ANOTHER_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+    </td>
+  </tr>
+</table>
